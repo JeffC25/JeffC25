@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **JeffC25/JeffC25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📚 I’m currently a computer engineering student at Boston University
+- 🌱 I’m currently learning Go, Svelte, Docker, and Kubernetes
+- ⭐ I'm into cooking, guitar, drawing, badminton, and Tetris
