@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Go and Svelte 
+- 📚 I'm currently studying for my degree
+- 🌱 I’m currently learning Go, Zig, and Svelte
